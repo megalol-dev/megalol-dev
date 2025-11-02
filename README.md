@@ -1,16 +1,37 @@
-## Hi there 👋
+<!-- Imagen de cabecera -->
+<p align="center">
+  <img src="https://via.placeholder.com/800x200.png?text=Banner+Megalol+Dev" alt="Banner de presentación">
+</p>
 
-<!--
-**megalol-dev/megalol-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 ¡Hola, soy Escudero Dev!  
+### Desarrollador de Aplicaciones Web & Creador de Juegos 2D
 
-Here are some ideas to get you started:
+💻 Apasionado por el desarrollo, el pixel art y los videojuegos.  
+🎮 Actualmente trabajando en un proyecto propio tipo RPG clásico.  
+🚀 Siempre aprendiendo y experimentando con nuevas tecnologías.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 Sobre mí
+- 🌱 Aprendiendo: **Java**, **JavaScript**, y desarrollo de videojuegos 2D.  
+- 🔭 Proyecto actual: **Comecocos en Java** y un **RPG estilo Pokémon GBA**.  
+- 💬 Me interesa: la programación, el arte en píxeles y la creación de mundos.  
+
+---
+
+### 📫 Cómo contactarme
+- ✉️ [Tu correo o enlace de contacto](#)
+- 🌐 [Tu portafolio o GitHub Pages](#)
+- 💼 [LinkedIn](#)
+
+---
+
+### ⚙️ Tecnologías
+<p>
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,git,github" />
+</p>
+
+---
+
+⭐ *Gracias por visitar mi perfil. ¡Sigue mis proyectos para ver cómo evolucionan!*  
+
