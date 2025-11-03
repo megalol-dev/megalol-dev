@@ -3,8 +3,9 @@
   <img src="https://via.placeholder.com/800x200.png?text=Banner+Megalol+Dev" alt="Banner de presentación">
 </p>
 
-# 👋 ¡Hola, soy Escudero Dev!  
+# 👋 ¡Hola, soy José Luis Escudero Dev!  
 ### Desarrollador de Aplicaciones Web & Creador de Juegos 2D
+# Puedes ver mi porfolio en https://megalol-dev.github.io/
 
 💻 Apasionado por el desarrollo, el pixel art y los videojuegos.  
 🎮 Actualmente trabajando en un proyecto propio tipo RPG clásico.  
