@@ -12,6 +12,14 @@
 💻 Desarrollador Full Stack • 🎓 Técnico Superior en Desarrollo de Aplicaciones Web (DAW)
 </h3>
 
+## 📜 Formación Complementaria
+
+- 🤖 Curso de Iniciación al Desarrollo con IA – BIG School (6h)
+- 🤖 Desarrollo con IA: de 0 a Producción – BIG School (6h)
+- 🤖 Desarrollo con IA: Programa con Agentes – BIG School (6h)
+
+Actualmente continúo formándome en inteligencia artificial aplicada al desarrollo de software, automatización y agentes inteligentes.
+
 <p align="center">
   <a href="https://megalol-dev.github.io/">🌐 Portfolio</a> •
   <a href="https://github.com/megalol-dev">GitHub</a> •
