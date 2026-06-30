@@ -75,7 +75,7 @@ Aplicación web inspirada en Netflix:
 
 ### Frameworks y Librerías
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,laravel,bootstrap,flask" />
+  <img src="https://skillicons.dev/icons?i=bootstrap,react,astro,nextjs,laravel,flask,wordpress" />
 </p>
 
 ### Bases de Datos
