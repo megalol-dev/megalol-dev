@@ -6,10 +6,10 @@
   <img src="https://via.placeholder.com/1200x250.png?text=Jose+Luis+Escudero+-+Full+Stack+Developer" alt="Banner de presentación">
 </p>
 
-<h1 align="center">👋 Hi, I'm José Luis Escudero</h1>
+<h1 align="center">👋 ¡Hola, soy José Luis Escudero!</h1>
 
 <h3 align="center">
-💻 Full Stack Developer • 🎓 Higher Technician in Web Application Development (DAW)
+💻 Desarrollador Full Stack • 🎓 Técnico Superior en Desarrollo de Aplicaciones Web (DAW)
 </h3>
 
 <p align="center">
@@ -21,69 +21,69 @@
 
 ---
 
-# 🚀 About Me
+# 🚀 Sobre mí
 
-- 💼 Full Stack Developer specialized in **business applications and management systems**.
-- 🗄️ Passionate about **CRUD architectures, databases and scalable solutions**.
-- 🎮 Strong programming logic developed through **web applications and video game projects**.
-- 📚 Constantly learning new technologies and best development practices.
-- 🌱 Currently exploring **React, Next.js and Laravel**.
+- 💼 Desarrollador Full Stack especializado en aplicaciones web y sistemas de gestión empresarial.
+- 🗄️ Apasionado por las bases de datos, los CRUD completos y las arquitecturas escalables.
+- 🎮 Gran capacidad de lógica de programación desarrollada a través de proyectos web y videojuegos.
+- 📚 Formación continua y aprendizaje constante de nuevas tecnologías.
+- 🌱 Actualmente profundizando en React, Next.js y Laravel.
 
 ---
 
-# ⭐ Featured Projects
+# ⭐ Proyectos Destacados
 
 ## 🍽️ GastroReservas
-Restaurant management platform featuring:
+Plataforma de gestión para restaurantes con:
 
-- Online reservations
-- Authentication and role management
-- Customer and employee administration
-- Daily menus and reviews
-- Complete CRUD system with MySQL
-- MVC architecture in PHP
+- Reservas online.
+- Gestión de clientes y empleados.
+- Administración de platos y reseñas.
+- Autenticación y control de roles.
+- CRUD completo conectado a MySQL.
+- Arquitectura MVC en PHP.
 
-## 📋 Trello Task Manager
-Collaborative task management application featuring:
+## 📋 Gestor de Tareas tipo Trello
+Aplicación colaborativa con:
 
-- User authentication
-- Password recovery
-- Boards and lists
-- Drag & Drop cards
-- Responsive interface
-- Built with Laravel and MariaDB
+- Registro y autenticación de usuarios.
+- Recuperación de contraseñas.
+- Gestión de tableros.
+- Tarjetas Drag & Drop.
+- Diseño responsive.
+- Desarrollada con Laravel y MariaDB.
 
 ## 🎬 Netflix Clone
-Web application inspired by Netflix:
+Aplicación web inspirada en Netflix:
 
-- External API consumption
-- Movie and TV show search
-- Dynamic content
-- Responsive design
-- Live demo available
+- Consumo de API externa.
+- Búsqueda de películas y series.
+- Contenido dinámico.
+- Interfaz responsive.
+- Demo online disponible.
 
 🔗 https://cineapp-jose.netlify.app
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠️ Tecnologías
 
-### Languages
+### Lenguajes
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,java,php,python" />
 </p>
 
-### Frameworks & Libraries
+### Frameworks y Librerías
 <p>
 <img src="https://skillicons.dev/icons?i=react,nextjs,laravel,bootstrap,flask" />
 </p>
 
-### Databases
+### Bases de Datos
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
-### Tools
+### Herramientas
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse" />
 </p>
@@ -92,13 +92,13 @@ Web application inspired by Netflix:
 
 # 📺 YouTube
 
-I plan to share programming content, tutorials and development logs of my projects.
+Próximamente compartiré contenido sobre programación, tutoriales y el desarrollo de mis proyectos.
 
 🔗 https://www.youtube.com/@Megalol-dev
 
 ---
 
-# 📫 Contact
+# 📫 Contacto
 
 📧 Email: **escuderopolojoseluis@gmail.com**
 
@@ -110,4 +110,4 @@ I plan to share programming content, tutorials and development logs of my projec
 
 ---
 
-⭐ Thanks for visiting my profile. Feel free to explore my repositories and follow my progress as a developer.
+⭐ Gracias por visitar mi perfil. ¡Espero que disfrutes explorando mis proyectos y siguiendo mi evolución como desarrollador!.
