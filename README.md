@@ -80,7 +80,7 @@ Aplicación web inspirada en Netflix:
 
 ### Bases de Datos
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+ <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
 </p>
 
 ### Herramientas
