@@ -2,8 +2,6 @@
      BANNER (CAMBIAR MÁS TARDE)
 =========================== -->
 
-# 👋 ¡Hola, soy José Luis Escudero!
-
 <h3 align="center">
 💻 Desarrollador Full Stack
 </h3>
@@ -15,16 +13,13 @@
 ---
 
 ## 📜 Formación Complementaria
-
+<h3 align="center">
 - 🤖 Curso de Iniciación al Desarrollo con IA – BIG School (6h)
 - 🤖 Desarrollo con IA: de 0 a Producción – BIG School (6h)
 - 🤖 Desarrollo con IA: Programa con Agentes – BIG School (6h)
+</h3>
 
-Actualmente continúo formándome en:
-
-- 🧠 Inteligencia Artificial aplicada al desarrollo de software.
-- 🤖 Automatización y agentes inteligentes.
-- 🚀 Nuevas tecnologías Full Stack y desarrollo de videojuegos.
+Actualmente continúo formándome herramientas relacionadas con la IA
 
 ---
 
