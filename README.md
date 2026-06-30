@@ -2,15 +2,17 @@
      BANNER (CAMBIAR MÁS TARDE)
 =========================== -->
 
-<p align="center">
-  <img src="https://via.placeholder.com/1200x250.png?text=Jose+Luis+Escudero+-+Full+Stack+Developer" alt="Banner de presentación">
-</p>
-
-<h1 align="center">👋 ¡Hola, soy José Luis Escudero!</h1>
+# 👋 ¡Hola, soy José Luis Escudero!
 
 <h3 align="center">
-💻 Desarrollador Full Stack • 🎓 Técnico Superior en Desarrollo de Aplicaciones Web (DAW)
+💻 Desarrollador Full Stack
 </h3>
+
+<h3 align="center">
+🎓 Técnico Superior en Desarrollo de Aplicaciones Web (DAW)
+</h3>
+
+---
 
 ## 📜 Formación Complementaria
 
@@ -18,14 +20,20 @@
 - 🤖 Desarrollo con IA: de 0 a Producción – BIG School (6h)
 - 🤖 Desarrollo con IA: Programa con Agentes – BIG School (6h)
 
-Actualmente continúo formándome en inteligencia artificial aplicada al desarrollo de software, automatización y agentes inteligentes.
+Actualmente continúo formándome en:
 
-<p align="center">
-  <a href="https://megalol-dev.github.io/">🌐 Portfolio</a> •
-  <a href="https://github.com/megalol-dev">GitHub</a> •
-  <a href="https://www.youtube.com/@Megalol-dev">YouTube</a> •
-  <a href="https://www.linkedin.com/in/TU-USUARIO">LinkedIn</a>
-</p>
+- 🧠 Inteligencia Artificial aplicada al desarrollo de software.
+- 🤖 Automatización y agentes inteligentes.
+- 🚀 Nuevas tecnologías Full Stack y desarrollo de videojuegos.
+
+---
+
+🌐 **Enlaces**
+
+[Portafolio](https://megalol-dev.github.io/) •
+[GitHub](https://github.com/megalol-dev) •
+[YouTube](#) •
+[LinkedIn](#)
 
 ---
 
