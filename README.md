@@ -110,7 +110,7 @@ Aplicación web inspirada en Netflix:
 
 # 📺 YouTube
 
-Próximamente compartiré contenido sobre programación, tutoriales y el desarrollo de mis proyectos.
+Contenido sobre programación, tutoriales y el desarrollo de mis proyectos.
 
 🔗 https://www.youtube.com/@Megalol-dev
 
@@ -122,7 +122,8 @@ Próximamente compartiré contenido sobre programación, tutoriales y el desarro
 
 🌐 Portfolio: https://megalol-dev.github.io/
 
-💼 LinkedIn: https://www.linkedin.com/in/TU-USUARIO
+💼 LinkedIn: https://linkedin.com/in/jose-luis-escudero-polo
+
 
 📺 YouTube: https://www.youtube.com/@Megalol-dev
 
