@@ -98,12 +98,11 @@ Aplicación web inspirada en Netflix:
 <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse" />
 </p>
 
-### 🤖 Herramientas de IA y Productividad
-<p>
-  <img src="https://img.shields.io/badge/ChatGPT-OpenAI-74aa9c?style=for-the-badge&logo=openai&logoColor=white">
-  <img src="https://img.shields.io/badge/NotebookLM-Google-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/OpenCode-AI-red?style=for-the-badge">
-</p>
+### 🤖 Herramientas de IA
+- ChatGPT
+- OpenCode
+- NotebookLM
+- GitHub Copilot
 
 ---
 
