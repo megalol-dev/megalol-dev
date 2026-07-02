@@ -99,10 +99,12 @@ Aplicación web inspirada en Netflix:
 </p>
 
 ### 🤖 Herramientas de IA
-- ChatGPT
-- OpenCode
-- NotebookLM
-- GitHub Copilot
+<p>
+  <img src="https://img.shields.io/badge/ChatGPT-OpenAI-74aa9c?style=for-the-badge&logo=openai&logoColor=white">
+  <img src="https://img.shields.io/badge/NotebookLM-Google-4285F4?style=for-the-badge&logo=google&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub_Copilot-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/OpenCode-AI-red?style=for-the-badge">
+</p>
 
 ---
 
