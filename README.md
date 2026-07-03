@@ -26,8 +26,8 @@ Actualmente continúo formándome herramientas relacionadas con la IA
 
 [Portafolio](https://megalol-dev.github.io/) •
 [GitHub](https://github.com/megalol-dev) •
-[YouTube](#) •
-[LinkedIn](#)
+[YouTube]([#](https://www.youtube.com/@Megalol-dev)) •
+[LinkedIn]([#](https://www.linkedin.com/in/jose-luis-escudero-polo/))
 
 ---
 
