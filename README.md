@@ -123,7 +123,6 @@ Contenido sobre programación, tutoriales y el desarrollo de mis proyectos.
 
 💼 LinkedIn: https://linkedin.com/in/jose-luis-escudero-polo
 
-
 📺 YouTube: https://www.youtube.com/@Megalol-dev
 
 ---
