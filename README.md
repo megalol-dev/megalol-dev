@@ -18,7 +18,7 @@
 - 🤖 Desarrollo con IA: de 0 a Producción – BIG School (6h)
 - 🤖 Desarrollo con IA: Programa con Agentes – BIG School (6h)
 
-Actualmente continúo formándome herramientas relacionadas con la IA
+Actualmente continúo formándome herramientas relacionadas con la IA.
 
 ---
 
