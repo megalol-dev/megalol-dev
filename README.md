@@ -119,6 +119,8 @@ Contenido sobre programación, tutoriales y el desarrollo de mis proyectos.
 
 📧 Email: **escuderopolojoseluis@gmail.com**
 
+📄 Descargar CV: https://megalol-dev.github.io/assets/pdf/CV_JoseLuisEscudero_FullStackJunior.pdf
+
 🌐 Portfolio: https://megalol-dev.github.io/
 
 💼 LinkedIn: https://linkedin.com/in/jose-luis-escudero-polo
