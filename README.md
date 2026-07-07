@@ -107,19 +107,15 @@ Aplicación web inspirada en Netflix:
 
 ---
 
-# 📺 YouTube
-
-Contenido sobre programación, tutoriales y el desarrollo de mis proyectos.
-
-🔗 https://www.youtube.com/@Megalol-dev
-
----
-
 # 📫 Contacto
 
 📧 Email: **escuderopolojoseluis@gmail.com**
 
 📄 Descargar CV: https://megalol-dev.github.io/assets/pdf/CV_JoseLuisEscudero_FullStackJunior.pdf
+
+---
+
+# Trabajos y redes
 
 🌐 Portfolio: https://megalol-dev.github.io/
 
